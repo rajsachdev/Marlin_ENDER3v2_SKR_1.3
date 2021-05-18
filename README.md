@@ -1,3 +1,11 @@
+
+
+
+Based on Jyers Extensible UI, trying to compile for my SKR 1.3 with Original 3v2 screen.
+
+
+
+
 # Ender 3 V2 Extensible UI
 
 This fork was created with the intention of giving the best possible experience to E3V2 users. However, GitHub, flashing new firmware, etc. can all be quite daunting for new users. Pretty much everything you need to know is here on github, so here's a quick rundown of where to find what you need!
