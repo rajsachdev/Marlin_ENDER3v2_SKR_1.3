@@ -2,7 +2,7 @@
 
 
 Based on Jyers Extensible UI, trying to compile for my SKR 1.3 with Original 3v2 screen. 32 Microsteps for X,Y and Z. seems to be working.
-will update display connections soon.
+Connections between display and exp1 in images folder (Ender 3v2 display to SKR1.jpg).
 
 
 
